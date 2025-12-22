@@ -32,7 +32,7 @@ const db = new pg.Client({
 db.connect();
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: process.env.OPEN_AI_KEY,
 });
 
 app.get("/get-info", async (req, res) => {
