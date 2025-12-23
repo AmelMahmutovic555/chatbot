@@ -1,5 +1,8 @@
 # chatbot
 
+LINK OF THE DEPLOYED WEBSITE
+https://chatbotfrontend-1588-gtqd85tp9-amels-projects-f7598538.vercel.app/
+
 1. Tech stack?
 - Creating this app i used Node JS for the backend React JS for the frontend and PostgreSQL as the database and OpenAI Api as the chat bot for this app.
 
