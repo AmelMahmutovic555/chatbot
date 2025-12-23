@@ -1,6 +1,6 @@
 # chatbot
 
-LINK OF THE DEPLOYED WEBSITE
+LINK OF THE DEPLOYED WEBSITE:
 https://chatbotfrontend-1588-gtqd85tp9-amels-projects-f7598538.vercel.app/
 
 1. Tech stack?
